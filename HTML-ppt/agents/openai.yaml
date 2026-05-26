@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML-ppt"
+  short_description: "制作网页翻页版演示稿，并导出对应 PPTX 文件"
+  default_prompt: "制作一份适合商务汇报的网页翻页版演示稿，确保翻页稳定，并最终交付 HTML 和 PPTX 两个文件。"
