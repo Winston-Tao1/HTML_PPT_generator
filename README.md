@@ -61,7 +61,15 @@ HTML-ppt/
 
 ## 🎨 Demo 演示
 
-以下是智能客服平台升级方案的完整 10 页演示截图：
+以下是智能客服平台升级方案的完整 10 页演示稿（Swiss Style 商务模板）：
+
+### 🖥️ 在线交互演示
+
+👉 **[点击查看可翻页的网页演示](https://htmlpreview.github.io/?https://github.com/Winston-Tao1/HTML_PPT_generator/blob/main/HTML-ppt/demo/ai-customer-service-upgrade.html)**
+
+> 💡 支持键盘 `← →` 翻页、滚轮切换、`ESC` 缩略图导航
+
+### 📸 页面截图预览
 
 | 页面 | 截图 |
 |------|------|
