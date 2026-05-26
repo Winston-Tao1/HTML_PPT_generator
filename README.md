@@ -86,40 +86,9 @@ HTML-ppt/
 
 📥 [下载完整 Demo PPTX](./HTML-ppt/demo/ai-customer-service-upgrade-screenshot-export-fixed.pptx)
 
-## 🔧 命令参考
+## 📬 联系方式
 
-### HTML 转 PPTX
-
-```bash
-node HTML-ppt/scripts/html_to_pptx.js <input.html> [output.pptx]
-```
-
-功能说明：
-- 自动打开 HTML 并切换到静态稳定渲染模式
-- 按页渲染截图（16:9）
-- 高保真写入 PPTX
-
-> 依赖 Playwright 浏览器 runtime，首次使用需安装。
-
-## ✅ QA 检查清单
-
-- [x] `#deck` 存在且结构完整
-- [x] 模板原生翻页逻辑未被破坏
-- [x] 键盘 `← →` 可翻页
-- [x] 滚轮可翻页
-- [x] `ESC` 可开关缩略图
-- [x] 单文件 HTML 可直接打开演示
-- [x] 导出 PPTX 无大面积留白
-- [x] 封面/正文/收尾风格统一
-
-## 📋 常见问题
-
-| 问题 | 解决方案 |
-|------|---------|
-| 只显示第一页 | 检查是否误改模板原生 `#deck`、`#nav`、`go()` 逻辑 |
-| 导出 PPT 留白 | 使用当前版本 `scripts/html_to_pptx.js`，自动切换静态模式 |
-| 动效库加载失败 | 保留静态可读性，不阻塞翻页 |
-| Playwright 启动失败 | 先安装浏览器 runtime 再重试 |
+📧 邮箱：[taowenlongit@outlook.com](mailto:taowenlongit@outlook.com)
 
 ## 📄 License
 
