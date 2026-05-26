@@ -59,53 +59,24 @@ HTML-ppt/
     └── ai-customer-service-upgrade-screenshot-export-fixed.pptx
 ```
 
-## 📊 内置商务叙事蓝图（10 页）
+## 🎨 Demo 演示
 
-| 页码 | 内容 | 说明 |
-|------|------|------|
-| 1 | 封面 | 主题 + 一句话价值主张 |
-| 2 | 执行摘要 | 3-4 条结论先行 |
-| 3 | 痛点页 | 当前问题与机会窗口 |
-| 4 | 公司介绍 | 定位、能力、交付经验 |
-| 5 | 能力矩阵 | 技术与治理能力总览 |
-| 6 | 套餐方案 | 三档席位 + 差异化扩展 |
-| 7 | 计费机制 | 官方价直通 + 缓存计价 |
-| 8 | 安全合规 | 身份、权限、审计、留存 |
-| 9 | 落地路径 | POC→上线→扩展→运营 |
-| 10 | 收束页 | 3 条 takeaway + 下一步动作 |
+以下是智能客服平台升级方案的完整 10 页演示截图：
 
-## 🎨 Demo 案例
-
-### 智能客服平台升级方案汇报
-
-`demo/ai-customer-service-upgrade-screenshot-export-fixed.pptx` 是一份完整的商务汇报演示稿，展示 HTML-ppt 的典型输出效果。
-
-**案例信息**:
-
-| 项目 | 内容 |
+| 页面 | 截图 |
 |------|------|
-| 主题 | 智能客服平台升级方案 |
-| 受众 | CEO、COO、客服负责人、技术负责人 |
-| 页数 | 8-10 页 |
-| 风格 | Swiss Style，深蓝+橘色强调 |
-| 场景 | 面向管理层 15 分钟汇报，申请预算启动项目 |
+| 第 1 页 — 封面 | ![demoPic01](./HTML-ppt/demo/demoPic01.png) |
+| 第 2 页 — 执行摘要 | ![demoPic02](./HTML-ppt/demo/demoPic02.png) |
+| 第 3 页 — 痛点分析 | ![demoPic03](./HTML-ppt/demo/demoPic03.png) |
+| 第 4 页 — 公司介绍 | ![demoPic04](./HTML-ppt/demo/demoPic04.png) |
+| 第 5 页 — 能力矩阵 | ![demoPic05](./HTML-ppt/demo/demoPic05.png) |
+| 第 6 页 — 套餐方案 | ![demoPic06](./HTML-ppt/demo/demoPic06.png) |
+| 第 7 页 — 计费机制 | ![demoPic07](./HTML-ppt/demo/demoPic07.png) |
+| 第 8 页 — 安全合规 | ![demoPic08](./HTML-ppt/demo/demoPic08.png) |
+| 第 9 页 — 落地路径 | ![demoPic09](./HTML-ppt/demo/demoPic09.png) |
+| 第 10 页 — 收束 | ![demoPic10](./HTML-ppt/demo/demoPic10.png) |
 
-**核心数据**:
-- 月均咨询量：82 万
-- 重复问题占比：57%
-- 单月人力成本：约 138 万元
-
-**页面结构**:
-1. 封面 — 主题 + 价值主张
-2. 背景与问题 — 数据驱动的痛点分析
-3. 方案架构 — AI 意图识别 + 知识库问答 + 工单自动分派
-4. 核心能力模块 — 机器人、坐席辅助、智能质检
-5. 收益测算 — 量化 ROI 分析
-6. 实施计划 — Q1-Q4 分阶段落地路径
-7. 风险与治理 — 风险识别与应对策略
-8. 收尾页 — Takeaways + 下一步行动
-
-📥 [下载 Demo PPTX](./HTML-ppt/demo/ai-customer-service-upgrade-screenshot-export-fixed.pptx)
+📥 [下载完整 Demo PPTX](./HTML-ppt/demo/ai-customer-service-upgrade-screenshot-export-fixed.pptx)
 
 ## 🔧 命令参考
 
